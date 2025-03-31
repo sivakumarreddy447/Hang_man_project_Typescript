@@ -1,4 +1,4 @@
-# 🎮 Hangman Game - TypeScript Edition
+# 🎮 Hangman Game - TypeScript
 
 A fun and interactive web-based Hangman game built using **TypeScript**, HTML, and CSS. The game randomly selects a word, and the player must guess it letter by letter before running out of attempts!
 
